@@ -9,4 +9,4 @@ List of useful go resources
 - [Awesome Go: Digital Ocean curated resources list](https://awesome-go.com/)
 - [Official Go Blog](https://blog.golang.org/)
 - [A tour of Go](https://tour.golang.org/welcome/1)
-
+- [Effective Go](https://golang.org/doc/effective_go.html)
